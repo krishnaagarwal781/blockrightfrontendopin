@@ -25,6 +25,7 @@ import AdminDashboardLayout from "./util/AdminDashboardLayout";
 import Orders from "./component/Orders";
 import Payment from "./component/Payment";
 import RightsAdmin from "./component/RightsAdmin";
+import Customerpayment from "./pages/Customerpayment";
 
 
 function App() {
@@ -114,6 +115,7 @@ function App() {
               <Route path="/AgreementPage" element={<AgreementPage />} />
               <Route path="/ConfirmorderPage" element={<ConfirmorderPage />} />
               <Route path="/Loader" element={<Loader />} />
+              <Route path="/Customerpayment" element={<Customerpayment />} />
               <Route exact path="*" element={<ErrorPage />} />
             </Routes>
           </div>
