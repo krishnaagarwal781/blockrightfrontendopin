@@ -1,4 +1,4 @@
-Postman public workspace which have 21 apis - "https://www.postman.com/restless-meteor-951294/workspace/webtee/collection/20585418-e03ae6d2-a50e-4557-9410-b77849657d21?action=share&creator=20585418"
+Postman public workspace which have 21 manual coded apis - "https://www.postman.com/restless-meteor-951294/workspace/webtee/collection/20585418-e03ae6d2-a50e-4557-9410-b77849657d21?action=share&creator=20585418"
 
 We have used 2 public apis which are for fetching countries and nftmetadata by api.nft.port.xyz which posts in Database
 
